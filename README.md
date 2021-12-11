@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome tothe W00fPack! 👋
 
+W00fPack mainly contains applications and documentation for Linux distributions and software.
 <!--
 **w00fpack/w00fpack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
