@@ -1,4 +1,4 @@
-### Welcome tothe W00fPack! 👋
+### Welcome to the W00fPack! 👋
 
 W00fPack mainly contains applications and documentation for Linux distributions and software.
 <!--
